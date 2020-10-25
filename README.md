@@ -16,4 +16,4 @@ Please download tensor toolbox from http://www.sandia.gov/~tgkolda/TensorToolbox
 - Cross Data Generelaization Performance
 
 
-Please contact either Sunny Verma or Wei Liu at firstname.lastname@uts.edu.au if you're interested to collaborate on this!
+Please contact either Sunny Verma or Wei Liu at firstname.lastname@uts.edu.au if you're interested to collaborate.
