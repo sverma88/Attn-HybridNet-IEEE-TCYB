@@ -1,4 +1,4 @@
-# Attn-HybridNet --TCYB (Under Review)
+# Attn-HybridNet --Accepted at IEEE TCYB
 [Attn-HybridNet: Improving Discriminability of Hybrid Features with Attention Fusion](https://arxiv.org/abs/2010.06096)
 
 
